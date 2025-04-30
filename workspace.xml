@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14223805-ebd7-4360-a7e5-e107c7d2b4a5" name="Changes" comment="added authentication and authorization changes for delete customer and order">
+      <change beforePath="$PROJECT_DIR$/customer_orders.db" beforeDir="false" afterPath="$PROJECT_DIR$/customer_orders.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tejatechtutes/customer_orders/CustomerOrdersApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tejatechtutes/customer_orders/CustomerOrdersApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GopalTejaswi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GopalTejaswi/sqliteExample.git&quot;,
+    &quot;accountId&quot;: &quot;619c3ab7-c717-4b50-be53-a1c1f75040a7&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2uJNWzbb5IK6K4xaudxMCeVGjhC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CustomerOrdersApplication.executor": "Run",
+    "Maven.customer_orders [clean,install].executor": "Run",
+    "Maven.customer_orders [clean].executor": "Run",
+    "Maven.customer_orders [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/Downloads/customer_orders/customer_orders",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Naan_Muthalvan\customer_orders\src\main\java\com\tejatechtutes\customer_orders" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tejatechtutes.customer_orders.model" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CustomerOrdersApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tejatechtutes.customer_orders.CustomerOrdersApplication" />
+      <module name="customer_orders" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tejatechtutes.customer_orders.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomerOrdersApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14223805-ebd7-4360-a7e5-e107c7d2b4a5" name="Changes" comment="" />
+      <created>1741962752374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741962752374</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commiting to feature test">
+      <option name="closed" value="true" />
+      <created>1741971588529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741971588529</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added customer delete mapping and order post mapping">
+      <option name="closed" value="true" />
+      <created>1742782760053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742782760053</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added delete mapping for orders">
+      <option name="closed" value="true" />
+      <created>1743406266680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743406266680</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added authentication and authorization changes for delete customer and order">
+      <option name="closed" value="true" />
+      <created>1743429116620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743429116620</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commiting to feature test" />
+    <MESSAGE value="added customer delete mapping and order post mapping" />
+    <MESSAGE value="added delete mapping for orders" />
+    <MESSAGE value="added authentication and authorization changes for delete customer and order" />
+    <option name="LAST_COMMIT_MESSAGE" value="added authentication and authorization changes for delete customer and order" />
+  </component>
+</project>
